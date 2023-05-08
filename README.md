@@ -6,5 +6,5 @@ Comments at the start of the code include:
 1. Explanations of symbols of which the values are eithor read from a data file or, if needed, modified in main program. In the latter case, one may 
 try to assign a slightly great value to CRANG3  if there is no meaningful fault-slip pair available in a data group under defaults.  
 2. Output results of the RESULT.txt file.
-3. 
+
 An example and corresponding result, C3.dat and RESULT.txt , are included in the package. 
