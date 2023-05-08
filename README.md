@@ -1,5 +1,5 @@
-# Palaeostress-analysis
-Mehtods for inverting fault-slip data for stress
+# PALFD
+Palaeostress analysis using a low-diversity group of fault-slip data
 There are three files in this repository: PALFD.for, C3.dat and RESULT.txt. 
 PALFD.for is the code for our new method designed to estimate palaeostress from a low-diversity group of fault-slip data under the constraint of meaningful fault-slip pair(s). 
 It is written in Fortran 90 and complied by Microsoft Developer Studio with Fortran PowerStation 4.0.  
